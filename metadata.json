@@ -1,0 +1,6 @@
+{
+  "name": "Portgear Inventory",
+  "description": "Mobile-first bags inventory management app tracking PORTGEAR, AIRFIT, and SOFISTICA stock, deliveries, sales, and JSON/CSV backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
